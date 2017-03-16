@@ -1,0 +1,8 @@
+BETA 数据库
+
+USER 表，记录用户名yhm，密码mm，电话号码dhhm，学校xx，日期，主索引自增id号
+
+LISTALL 表，记录产品名cpm，产品号cph，供应商gys，短介绍djs，长介绍cjs，地点dd，日期，主索引自增id号
+
+自动以产品号cph建表，记录顾客customer，顾客电话tel，评论comment，日期，主索引自增id号
+
